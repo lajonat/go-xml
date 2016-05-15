@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"aqwari.net/xml/xmltree"
+	"github.com/lajonat/go-xml/xmltree"
 )
 
 // A Ref contains the canonical namespace of a schema document, and

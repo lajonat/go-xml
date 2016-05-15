@@ -1,4 +1,4 @@
-package xsdgen // import "aqwari.net/xml/xsdgen"
+package xsdgen // import "github.com/lajonat/go-xml/xsdgen"
 
 import (
 	"bytes"
@@ -12,9 +12,9 @@ import (
 	"sort"
 	"strings"
 
-	"aqwari.net/xml/internal/gen"
-	"aqwari.net/xml/xmltree"
-	"aqwari.net/xml/xsd"
+	"github.com/lajonat/go-xml/internal/gen"
+	"github.com/lajonat/go-xml/xmltree"
+	"github.com/lajonat/go-xml/xsd"
 )
 
 var defaultConfig Config

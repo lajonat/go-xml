@@ -12,7 +12,7 @@ import (
 	"regexp"
 	"strings"
 
-	"aqwari.net/xml/xsd"
+	"github.com/lajonat/go-xml/xsd"
 	"golang.org/x/tools/imports"
 )
 

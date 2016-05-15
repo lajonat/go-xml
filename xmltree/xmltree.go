@@ -3,7 +3,7 @@
 // The xmltree package provides routines for accessing an XML document
 // as a tree, along with functionality to resolve namespace-prefixed
 // strings at any point in the tree.
-package xmltree // import "aqwari.net/xml/xmltree"
+package xmltree // import "github.com/lajonat/go-xml/xmltree"
 
 import (
 	"bytes"
